@@ -25,7 +25,7 @@ export default function Footer() {
         </div>
         <div className="container mx-auto flex flex-col gap-4 md:flex-row justify-between mt-12 border-t-2 pt-8 w-xs sm:w-xl md:w-2xl lg:w-4xl xl:w-5xl 2xl:w-6xl">
           <span className="text-center">
-            Route.co © 2000-2026, All Rights Reserved
+            ShopMart © 2000-2026, All Rights Reserved
           </span>
           <div className="socials-container *:text-3xl flex justify-center items-center gap-3">
             <Link href={"/"} className="hover:*:scale-110">
