@@ -30,7 +30,7 @@ export default function Navbar() {
           href={"/"}
           className="hover:text-zinc-400 transition duration-300"
         >
-          <span className="uppercase text-2xl font-bold">Route.co</span>
+          <span className="uppercase text-2xl font-bold">ShopMart</span>
         </Link>
         <div className="hidden links-container lg:flex gap-5 font-[650] tracking-wider text-zinc-600 *:hover:text-zinc-400 *:transition *:duration-300">
           {/******** Shop *******/}
